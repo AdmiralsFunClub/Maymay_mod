@@ -6,9 +6,12 @@ Created by Alex.
 ### Mods
 
 1. Maymay mod
-  * adds the character Maymay.
+
+   adds the character Maymay.
+   
 2. Miles mod
-  * adds the character Miles.
+
+   adds the character Miles.
 
 ### Installation
 

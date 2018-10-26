@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spriter_data scml_version="1.0" generator="BrashMonkey Spriter" generator_version="b5">
+    <folder id="0" name="swap_rainbowgarland">
+        <file id="0" name="swap_rainbowgarland/swap_rainbowgarland-0.png" width="192" height="192" pivot_x="0.536572" pivot_y="0.022389"/>
+        <file id="1" name="swap_rainbowgarland/swap_rainbowgarland-1.png" width="192" height="192" pivot_x="0.595706" pivot_y="0.005903"/>
+        <file id="2" name="swap_rainbowgarland/swap_rainbowgarland-2.png" width="192" height="192" pivot_x="0.515372" pivot_y="0.003699"/>
+    </folder>
+    <entity id="0" name="entity_000">
+        <animation id="0" name="NewAnimation" length="1000">
+            <mainline>
+                <key id="0">
+                    <object_ref id="0" name="swap_rainbowgarland-0" folder="0" file="1" abs_x="121.557376" abs_y="-177.527936" abs_pivot_x="0.595706" abs_pivot_y="0.005903" abs_angle="0" abs_scale_x="1" abs_scale_y="1" abs_a="1" timeline="0" key="0" z_index="0"/>
+                </key>
+            </mainline>
+            <timeline id="0" name="swap_rainbowgarland-0">
+                <key id="0" spin="0">
+                    <object folder="0" file="1" x="121.557376" y="-177.527936" angle="0"/>
+                </key>
+            </timeline>
+        </animation>
+    </entity>
+</spriter_data>
